@@ -593,4 +593,5 @@ class DotEnv:
         return dic
 
 class MasterclassAuth(Masterclass):
+    #em desenvolvimento
     pass
